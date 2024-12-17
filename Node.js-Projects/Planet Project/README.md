@@ -1,2 +1,2 @@
-# Node.js-Projects
-This repository contains some of my node.js projects
+# Planet Project
+In this project, I use node to get the list of all exoplanets captured by Kepler, then using parameters set by scientists, searched for habitable planets
